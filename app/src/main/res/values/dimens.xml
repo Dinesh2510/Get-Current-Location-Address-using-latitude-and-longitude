@@ -1,0 +1,46 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--genaral spacing-->
+    <dimen name="spacing_xsmall">2dp</dimen>
+    <dimen name="spacing_small">3dp</dimen>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_xmedium">7dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_mlarge">20dp</dimen>
+    <dimen name="spacing_mxlarge">25dp</dimen>
+    <dimen name="spacing_xlarge">35dp</dimen>
+    <dimen name="spacing_xmlarge">40dp</dimen>
+    <dimen name="spacing_xxlarge">50dp</dimen>
+
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="card_elevation">1dp</dimen>
+    <dimen name="card_radius">3dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <dimen name="no_item_img_size">80dp</dimen>
+
+    <dimen name="news_item_img">100dp</dimen>
+    <dimen name="wishlist_item_img">50dp</dimen>
+    <dimen name="cart_item_img">50dp</dimen>
+    <dimen name="product_item_img">100dp</dimen>
+    <dimen name="item_product_width">180dp</dimen>
+
+    <dimen name="dialog_header_height">120dp</dimen>
+    <dimen name="dialog_min_width">270dp</dimen>
+    <dimen name="dialog_header_image">80dp</dimen>
+
+    <dimen name="min_height_featured_news">100dp</dimen>
+    <dimen name="min_height_categories">100dp</dimen>
+    <dimen name="spacing_smlarge">18dp</dimen>
+    <dimen name="spacing_control">4sp</dimen>
+    <dimen name="_35sdp">35dp</dimen>
+    <dimen name="spacing_standard_new">16dp</dimen>
+    <dimen name="spacing_standard">8dp</dimen>
+
+    <dimen name="divider_width">0.5dp</dimen>
+</resources>

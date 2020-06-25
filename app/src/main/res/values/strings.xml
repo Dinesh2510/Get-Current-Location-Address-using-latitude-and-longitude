@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Current Address</string>
+    <string name="lbl_payment_details">Your Address: </string>
+    <string name="lbl_loca">Locality: </string>
+    <string name="lbl_city">city: </string>
+    <string name="lbl_state">State: </string>
+    <string name="country">Country: </string>
+    <string name="pincode">PinCode: </string>
+    <string name="dictrict">District: </string>
+    <string name="ques">  </string>
+</resources>
